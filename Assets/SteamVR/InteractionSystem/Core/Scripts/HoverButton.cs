@@ -97,6 +97,7 @@ namespace Valve.VR.InteractionSystem
 
         private void InvokeEvents(bool wasEngaged, bool isEngaged)
         {
+          
             buttonDown = wasEngaged == false && isEngaged == true;
             buttonUp = wasEngaged == true && isEngaged == false;
 

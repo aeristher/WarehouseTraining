@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Redo.unity
+    guid: a6c906bdc3987f84b9483f6fc8be3bf6
   m_configObjects: {}
